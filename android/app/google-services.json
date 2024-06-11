@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "890010154373",
+    "firebase_url": "https://chatterease-default-rtdb.firebaseio.com",
+    "project_id": "chatterease",
+    "storage_bucket": "chatterease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890010154373:android:f08af9590164c796cdc0ec",
+        "android_client_info": {
+          "package_name": "com.example.chatter_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUlrhxrxLPbLkpaA2-2rv1aVFdm-scMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
